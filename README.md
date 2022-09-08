@@ -1,6 +1,6 @@
 ### Hi there 👋 🙂
 
-- About Me: Full Stack Web Developer with a background in literacy teaching and curriculum development. Passionate about applying my creativity and problem-solving skills and collaborating to develop resources and tools that can help others achieve their goals/aspirations.
+- About Me: Full Stack Web Developer with experience using frontend and backend technologies such as Ruby, Rails, JavaScript, and React. With a background in literacy education and K12 curriculum development, I bring strong professional judgment to tech projects, knowing how to prioritize, when to collaborate and when to seek assistance. Passionate about applying my innovative and analytical skills to develop high-quality applications and tools that can help others achieve their goals/aspirations.
 
 <p><a href="https://www.linkedin.com/in/conniepark2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://medium.com/@conniedc1206"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> </p>
 
